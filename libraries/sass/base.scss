@@ -1,0 +1,15 @@
+@use 'events';
+@use 'members';
+@use 'repos';
+@use 'organization';
+
+$boomOrange: #f4831e;
+$boomBlue: #3c80c3;
+$boomBlack: #353d45;
+$boomGreen: #4bb648;
+$boomWhitePrimary: #fff;
+$boomWhiteSecondary: #f9f9f9;
+
+body {
+  background: $boomWhiteSecondary;
+}
